@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Debug\ClipBoard.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Debug\ClipBoard.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Debug\ClipBoard.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Debug\ClipBoard.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClipBoard\ClipBoard\bin\Debug\小白剪切板.exe.config

@@ -1,0 +1,30 @@
+﻿             key.SetValue("ClipBoard", Application.ExecutablePath.ToString());
+            }
+            catch (Exception ex) {
+                MessageBox.Show("请使用管理员方式运行！");
+            }
+            
+            if (!Directory.Exists(Dir))
+            {
+                Directory.CreateDirectory(Dir);
+            }
+
+            foreach (string info in Directory.GetFiles(Dir))
+            {
+                listBox1.Items.Add(info);
+            }
+             key.SetValue("ClipBoard", Application.ExecutablePath.ToString());
+            }
+            catch (Exception ex) {
+                MessageBox.Show("请使用管理员方式运行！");
+            }
+            
+            if (!Directory.Exists(Dir))
+            {
+                Directory.CreateDirectory(Dir);
+            }
+
+            foreach (string info in Directory.GetFiles(Dir))
+            {
+                listBox1.Items.Add(info);
+            }

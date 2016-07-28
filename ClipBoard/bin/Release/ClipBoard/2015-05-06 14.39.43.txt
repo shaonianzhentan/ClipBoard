@@ -1,0 +1,2 @@
+﻿(no devices)
+[Plus] Add device(s)  [Enter] Close device manager

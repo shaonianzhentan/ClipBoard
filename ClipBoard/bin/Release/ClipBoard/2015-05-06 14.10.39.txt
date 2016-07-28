@@ -1,0 +1,6 @@
+﻿
+BitPenny
+
+BitPenny is switching to the Stratum protocol.
+Please stop using BitPenny Client as it is not compatible with version 2 blocks and will no longer be supported or required.
+Connection details will be published after upgrades are completed.

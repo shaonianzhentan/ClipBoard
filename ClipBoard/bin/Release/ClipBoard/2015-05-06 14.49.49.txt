@@ -1,0 +1,3 @@
+﻿ILMerge /ndebug /target:winexe /out:F:\TestForm\TestForm.exe /log
+F:\TestForm\Release\TestForm.exe /log
+F:\TestForm\Release\testdll.dll

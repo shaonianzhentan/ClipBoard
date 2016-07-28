@@ -1,0 +1,1 @@
+﻿cd C:\Program Files (x86)\Microsoft\ILMerge

@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Release\ClipBoard.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Release\ClipBoard.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Release\ClipBoard.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Release\小白剪切板.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Release\小白剪切板.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\bin\Release\小白剪切板.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Release\小白剪切板.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ClipBoard\ClipBoard\obj\Release\小白剪切板.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClipBoard\ClipBoard\bin\Release\GoodHelper.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ClipBoard\ClipBoard\bin\Release\GoodHelper.pdb

@@ -1,0 +1,8 @@
+﻿2015-05-06 13:48:01: "Default" 监听器已启动: WARNING: ADL missing (no AMD platform?), temperature control is disabled
+2015-05-06 13:48:01: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:48:01, checking for stratum...
+2015-05-06 13:48:01: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:48:01, started OpenCL miner on platform 0, device 1 (Intel(R) HD Graphics 2500)
+2015-05-06 13:48:03: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:48:03, diverted to stratum on stratum.bitcoin.cz:3333
+2015-05-06 13:48:06: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:48:06, Setting new difficulty: 256
+2015-05-06 13:48:34: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:48:34, Setting new difficulty: 51
+2015-05-06 13:49:04: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:49:04, Setting new difficulty: 10
+2015-05-06 13:49:35: "Default" 监听器已启动: api2.bitcoin.cz:8332 06/05/2015 13:49:35, Setting new difficulty: 8
